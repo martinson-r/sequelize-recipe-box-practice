@@ -5,7 +5,7 @@
     "database": "recipe_box_development",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "operatorsAliases": false,
+    "operatorsAliases": "false",
     "seederStorage": "sequelize"
   },
   "test": {
@@ -14,7 +14,7 @@
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "operatorsAliases": false,
+    "operatorsAliases": "false",
     "seederStorage": "sequelize"
   },
   "production": {
@@ -23,7 +23,7 @@
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "operatorsAliases": false,
+    "operatorsAliases": "false",
     "seederStorage": "sequelize"
   }
 }
